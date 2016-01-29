@@ -1,5 +1,5 @@
 {
-  "name": "react-native-webpack-server",
+  "name": "react-native-webpacker-server",
   "version": "0.8.4",
   "description": "Build React Native apps with Webpack",
   "main": "lib/Server.js",
